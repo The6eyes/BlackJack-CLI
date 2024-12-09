@@ -112,6 +112,10 @@ while playAgain {
 print("")
 print("Thanks for playing! Goodbye!")
 
-
+/*
+ - Print the rules
+ - Correct the spacing
+ - Maybe tell the player the dealers first card
+*/
 
 

@@ -30,7 +30,7 @@ func dealCard() -> Int {
 // GAME LOOP - we will print our welcome and establish a few variables for the dealers hand the players hand and a boolean to track if it is the players turn or not
 
 while playAgain {
-    print("\nWelcome to Blackjack!")
+    print("\nWelcome to Blackjack hugyt")
     print("")
     var playerHand = 0
     var dealerHand = 0
